@@ -7,6 +7,10 @@ class Display_Win():
         self.pos = Vector2(790, 20)
         self.size = Vector2(290, 560)
 
+    def update(self):
+
+        pass
+
     def render(self):
 
         begin_drawing()
